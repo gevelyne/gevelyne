@@ -1,8 +1,7 @@
-- 👋 Hi, I’m G.Eve
-- 👀 I’m interested in website/app designing
-- 🌱 I’m currently learning UI/UX and NodeJS
-- 💞️ I’m looking to collaborate on website nd application developments
-- 📫 How to reach me: gevelyne42@gmail.com
+- 👋 Hi, I’m Evalyne Gachoka
+- 🌱 UI/UX Designer
+- 💞️ I’m looking to collaborate on website and application developments
+- 📫 How to reach me: gachokaevalyne@gmail.com
 
 <!---
 gevelyne/gevelyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
